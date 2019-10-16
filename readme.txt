@@ -1,0 +1,1 @@
+before run instal sqlite3 driver, use "go get github.com/mattn/go-sqlite3" in terminal.
